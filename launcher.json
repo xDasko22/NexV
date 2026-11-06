@@ -2,12 +2,12 @@
   "serverName": "NexV",
   "tagline": "FiveM Roleplay",
   "description": "Deine Stadt. Deine Geschichte. Steig ein und schreib sie selbst.",
-  "serverIp": "DEINE.SERVER.IP",
+  "serverIp": "nexvrp.de",
   "serverPort": 30120,
-  "connectAddress": "",
-  "website": "",
+  "connectAddress": "nexvrp.de",
+  "website": "nexvrp.de",
   "discord": "",
-  "teamspeak": "",
+  "teamspeak": "nexvrp.de",
   "newsUrl": "",
   "news": [
     {
