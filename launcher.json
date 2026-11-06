@@ -36,7 +36,7 @@
     "text": "Bald ist Release!"
   },
   "maintenance": {
-    "active": false,
-    "text": "Wartungsarbeiten bis ca. 20:00 Uhr. Danach geht's weiter!"
+    "active": true,
+    "text": "Wartungsarbeiten"
   }
 }
