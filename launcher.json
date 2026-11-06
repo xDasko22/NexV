@@ -36,7 +36,7 @@
     "text": "SOON - Dezember?"
   },
   "maintenance": {
-    "active": true,
+    "active": false,
     "text": "Wartungsarbeiten"
   }
 }
