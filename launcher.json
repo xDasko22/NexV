@@ -1,0 +1,42 @@
+{
+  "serverName": "NexV",
+  "tagline": "FiveM Roleplay",
+  "description": "Deine Stadt. Deine Geschichte. Steig ein und schreib sie selbst.",
+  "serverIp": "DEINE.SERVER.IP",
+  "serverPort": 30120,
+  "connectAddress": "",
+  "website": "",
+  "discord": "",
+  "teamspeak": "",
+  "newsUrl": "",
+  "news": [
+    {
+      "tag": "Wichtig",
+      "title": "Willkommen auf NexV",
+      "date": "06.11.2026",
+      "text": "Der offizielle Launcher ist da. Ein Klick und du bist auf dem Server.",
+      "image": ""
+    },
+    {
+      "tag": "Event",
+      "title": "Fraktionen suchen Verstärkung",
+      "date": "06.11.2026",
+      "text": "Polizei und Rettungsdienst stellen ein. Bewerbungen laufen über unseren Discord.",
+      "image": ""
+    },
+    {
+      "tag": "Update",
+      "title": "Regelwerk aktualisiert",
+      "date": "06.11.2026",
+      "text": "Bevor du joinst: Regelwerk auf der Website lesen. Unwissenheit schützt nicht vor Bann.",
+      "image": ""
+    }
+  ],
+  "announcement": {
+    "text": ""
+  },
+  "maintenance": {
+    "active": false,
+    "text": "Wartungsarbeiten bis ca. 20:00 Uhr. Danach geht's weiter!"
+  }
+}
